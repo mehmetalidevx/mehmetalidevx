@@ -1,12 +1,9 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEJTvYKIk-Cvw/profile-displaybackgroundimage-shrink_350_1400/B4DZcIGzLAG8Ag-/0/1748187690123?e=1753920000&v=beta&t=Hc-XiwVcIOFelK-xxPwpxmuI9NbB_pTk_2MOcnXPM-U)
 
 
-
-
 <h1 align="center">Hi 👋, I'm Mehmet Ali Kaptan</h1>
 <h3 align="center">A passionate Flutter developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalidevx&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalidevx" /> </p>
 
 - 🔭 I’m currently working on **Medical Appointment Mobile App**
 
@@ -58,3 +55,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetalidevx&show_icons=true&locale=en" alt="mehmetalidevx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalidevx&" alt="mehmetalidevx" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalidevx&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalidevx" /> </p>
+
