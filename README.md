@@ -17,7 +17,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" height="30" width="30" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mehmet-ali-kaptan" target="_blank">
+  <a href="www.linkedin.com/in/mehmet-ali-kaptan-9b45171b0" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   &nbsp;
