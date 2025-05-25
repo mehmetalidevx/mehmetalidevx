@@ -17,9 +17,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X" height="30" width="30" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/mehmet-ali-kaptan-9b45171b0" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
+ <a href="https://www.linkedin.com/in/mehmet-ali-kaptan-9b45171b0" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+</a>
   &nbsp;
   <a href="https://instagram.com/mehmetalikaptann" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
